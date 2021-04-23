@@ -1,0 +1,16 @@
+2020-07-08 08:18:29.767  INFO 14072 --- [restartedMain] com.lys.BlogApplication                  : Starting BlogApplication on LAPTOP-7GBRUMH7 with PID 14072 (D:\blog\target\classes started by LYS in D:\blog)
+2020-07-08 08:18:29.771  INFO 14072 --- [restartedMain] com.lys.BlogApplication                  : The following profiles are active: pro
+2020-07-08 08:18:30.405  WARN 14072 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-07-08 08:18:30.801  INFO 14072 --- [restartedMain] com.lys.BlogApplication                  : Started BlogApplication in 1.068 seconds (JVM running for 1548.36)
+2020-07-08 08:18:30.957  INFO 14072 --- [http-nio-8080-exec-3] com.lys.aspect.LogAspect                 : Request:{url='http://127.0.0.1:8080/', ip='127.0.0.1', classMethod='com.lys.web.IndexController.index', args=[]}
+2020-07-08 08:18:30.960  INFO 14072 --- [http-nio-8080-exec-3] com.lys.aspect.LogAspect                 : Result : index
+2020-07-08 08:20:46.228  INFO 14072 --- [http-nio-8080-exec-6] com.lys.aspect.LogAspect                 : Request:{url='http://127.0.0.1:8080/', ip='127.0.0.1', classMethod='com.lys.web.IndexController.index', args=[]}
+2020-07-08 08:20:46.228  INFO 14072 --- [http-nio-8080-exec-6] com.lys.aspect.LogAspect                 : Result : index
+2020-07-08 08:22:05.264  INFO 14072 --- [http-nio-8080-exec-4] com.lys.aspect.LogAspect                 : Request:{url='http://127.0.0.1:8080/', ip='127.0.0.1', classMethod='com.lys.web.IndexController.index', args=[]}
+2020-07-08 08:22:05.264  INFO 14072 --- [http-nio-8080-exec-4] com.lys.aspect.LogAspect                 : Result : index
+2020-07-08 08:23:17.461  INFO 14072 --- [http-nio-8080-exec-5] com.lys.aspect.LogAspect                 : Request:{url='http://127.0.0.1:8080/', ip='127.0.0.1', classMethod='com.lys.web.IndexController.index', args=[]}
+2020-07-08 08:23:17.462  INFO 14072 --- [http-nio-8080-exec-5] com.lys.aspect.LogAspect                 : Result : index
+2020-07-08 08:23:30.163  INFO 14072 --- [http-nio-8080-exec-8] com.lys.aspect.LogAspect                 : Request:{url='http://127.0.0.1:8080/', ip='127.0.0.1', classMethod='com.lys.web.IndexController.index', args=[]}
+2020-07-08 08:23:30.163  INFO 14072 --- [http-nio-8080-exec-8] com.lys.aspect.LogAspect                 : Result : index
+2020-07-08 08:23:59.092  INFO 14072 --- [http-nio-8080-exec-3] com.lys.aspect.LogAspect                 : Request:{url='http://127.0.0.1:8080/', ip='127.0.0.1', classMethod='com.lys.web.IndexController.index', args=[]}
+2020-07-08 08:23:59.093  INFO 14072 --- [http-nio-8080-exec-3] com.lys.aspect.LogAspect                 : Result : index
